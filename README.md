@@ -19,8 +19,8 @@ The pressing times are customizable.
 | HAT-Key Down  | 21  |KEY_DWON_ARROW    | move mouse down  | -
 | HAT-Key Left  | 18  |KEY_LEFT_ARROW    | move mouse left  | -
 | HAT-Key Right | 33  |KEY_RIGHT_ARROW   | move mouse right | -
-| HAT-Key Press | 16  |KEY_Enter         | mouse left click | -
-| Fn            | 34  |KEY_Enter         | -                | -
+| HAT-Key Press | 16  |KEY_RETURN        | mouse left click | -
+| Fn            | 34  |Switch Mode       | -                | -
 | M             | 35  |1 1 3 3 3 4 4 4 4 | -                | cycle through Menue and switch Mode to Mouse
 | X             | 36  |KEY_ESC           | -                | -
 
