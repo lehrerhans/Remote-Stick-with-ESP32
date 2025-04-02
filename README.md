@@ -1,6 +1,6 @@
 # Remote-Stick-with-ESP32
 Remote Stick working as HID (Keybaord and mouse) for Open Vario / Open Soar.
-Can also uesd for DIY Keyboards and Mouse Emulation with Keys.
+Can also used for DIY Keyboards and Mouse Emulation with Keys.
 
 
 <b> Work in Progress!!! </b> 
