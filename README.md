@@ -16,7 +16,7 @@ The pressing times are customizable.
 | Button        | Pin | Mode: Joystick   | Mode: Mouse      | Remark  
 | ------------- | --- | -------------    | -------------    | ------------- 
 | HAT-Key Up    | 17  |KEY_UP_ARROW      | move mouse up    | -
-| HAT-Key Down  | 21  |KEY_DWON_ARROW    | move mouse down  | -
+| HAT-Key Down  | 21  |KEY_DOWN_ARROW    | move mouse down  | -
 | HAT-Key Left  | 18  |KEY_LEFT_ARROW    | move mouse left  | -
 | HAT-Key Right | 33  |KEY_RIGHT_ARROW   | move mouse right | -
 | HAT-Key Press | 16  |KEY_RETURN        | mouse left click | -
