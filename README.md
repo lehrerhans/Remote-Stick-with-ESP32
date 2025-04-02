@@ -3,7 +3,8 @@ Remote Stick working as HID (Keybaord and mouse) for Open Vario / Open Soar.
 Can also uesd for DIY Keyboards and Mouse Emulation with Keys.
 
 
-Work in Progress!!!
+<b Work in Progress!!! \b> 
+
 uC ESP32-S2
 uC Board: Lolin S2 mini
 
