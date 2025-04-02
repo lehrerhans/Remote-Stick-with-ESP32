@@ -1,5 +1,5 @@
 # Remote-Stick-with-ESP32
-Remote Stick working as HID (Keybaord and mouse) for Open Vario / Open Soar.
+Remote Stick working as HID (Keybaord and Mouse) for Open Vario / Open Soar.
 Can also used for DIY Keyboards and Mouse Emulation with Keys.
 
 
@@ -8,8 +8,8 @@ Can also used for DIY Keyboards and Mouse Emulation with Keys.
 uC ESP32-S2
 uC Board: Lolin S2 mini
 
-The buttons are read in with Interrupt-Routines. The ESP32-S2 has one core, with 32 interrupts
-The buttons cann be pressed short, long (1sec) or very long (4sec)
+The buttons are read in with Interrupt-Routines. The ESP32-S2 has one core, with 32 interrupts. </br>
+The buttons cann be pressed short, long (1sec) or very long (4sec), </br>
 The pressing times are customizable.
 
 
