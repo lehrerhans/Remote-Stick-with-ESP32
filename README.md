@@ -12,16 +12,18 @@ The buttons are read in with Interrupt-Routines. The ESP32-S2 has one core, with
 The buttons cann be pressed short, long (1sec) or very long (4sec)
 The pressing times are customizable.
 
-Key            mode Jostick    mode mouse
-HAT-Key Up     KEY_UP_ARROW    move mouse up
-HAT-Key Down   KEY_DOWN_ARROW  move mouse down
-HAT-Key Left   KEY_LEFT_ARROW  move mouse left
-HAT-Key Right  KEY_RIGHT_ARROW move mouse right
-HAT-Key press  KEY_Enter       mouse left click 
 
-Fn            
-M
-x  
+| Button        | Pin | Mode: Joystick   | Mode: Mouse      | Remark  
+| ------------- | --- | -------------    | -------------    | ------------- 
+| HAT-Key Up    | 17  |KEY_UP_ARROW      | move mouse up    | -
+| HAT-Key Down  | 21  |KEY_DWON_ARROW    | move mouse down  | -
+| HAT-Key Left  | 18  |KEY_LEFT_ARROW    | move mouse left  | -
+| HAT-Key Right | 33  |KEY_RIGHT_ARROW   | move mouse right | -
+| HAT-Key Press | 16  |KEY_Enter         | mouse left click | -
+| Fn            | 34  |KEY_Enter         | -                | -
+| M             | 35  |1 1 3 3 3 4 4 4 4 | -                | cycle through Menue and switch Mode to Mouse
+| X             | 36  |KEY_ESC           | -                | -
+
 
 <img src="Hardware.JPG" width="600px" />
 
