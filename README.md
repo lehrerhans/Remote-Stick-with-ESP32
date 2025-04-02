@@ -11,4 +11,7 @@ The buttons are read in with Interrupt-Routines. The ESP32 has 32 Interrupt Rout
 The buttons cann be pressed short, long (1sec) or very long (4sec)
 The pressing times are customize.
 
-![image description](image.svg)
+<img src="Hardware.JPG" width="600px" />
+
+<img src="Schematic.JPG" width="600px" />
+
