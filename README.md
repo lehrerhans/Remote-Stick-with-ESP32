@@ -5,6 +5,7 @@ Can also used for DIY Keyboards and Mouse Emulation with Keys.
 uC ESP32-S2 </br>
 uC Board: Lolin S2 mini </br>
 <b>  Keep in Mind: ESP32: Only pins that support both input & output have integrated pull-up and pull-down resistors. Input-only GPIOs 34-39 do not. </b>
+https://docs.espressif.com/projects/esp-idf/en/v5.0.1/esp32/api-reference/peripherals/gpio.html#_CPPv418gpio_set_pull_mode10gpio_num_t16gpio_pull_mode_t
 
 The buttons are read in with Interrupt-Routines. The ESP32-S2 has one core, with 32 interrupts. </br>
 The buttons cann be pressed short, long (1sec) or very long (4sec), </br>
