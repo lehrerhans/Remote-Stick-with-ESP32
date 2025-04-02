@@ -35,7 +35,7 @@ The pressing times are customizable.
   * <b>0</b> : is Enter, **a long pressure (> 1 sec) should reset the RemoteStick!**
   * <b>9 (STF)</b> (out of this layout): is a button (backside of stick) for toggling between Vario and STF (Speed-to-Fly) mode
 
-<img src="Stick.jpg" width="600px" />
+<img src="Stick.jpg" width="300px" />
 
 <img src="Hardware.JPG" width="600px" />
 
